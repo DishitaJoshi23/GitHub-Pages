@@ -27,7 +27,7 @@ Other than coding, here are a few things I enjoy:
 - Baking
   
 <!--Relative link to an image in the repo-->
-[Here's a famous trail in San Diego that I love](/torrey-pines.jpg)
+[Here's one of my favorite traisl in San Diego](/torrey-pines.jpg)
 
 ---
 
