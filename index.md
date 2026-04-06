@@ -8,7 +8,7 @@
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#my-tech-stack)
 - [Learning Goals Task List](#learning-goals-task-list)
 - [Connect with me](#connect-with-me)
 
