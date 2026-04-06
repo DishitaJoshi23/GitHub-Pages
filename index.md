@@ -16,7 +16,7 @@
 
 ## About me
 <!--Picture-->
-![Dream Desktop set up] (https://unsplash.com/photos/black-flat-screen-computer-monitor-on-brown-wooden-desk-gvptKmonylk)
+![Dream Desktop set up](https://unsplash.com/photos/black-flat-screen-computer-monitor-on-brown-wooden-desk-gvptKmonylk)
 
 <!--Unordered list-->
 Other than coding, here are a few things I enjoy:
@@ -61,7 +61,7 @@ print(sayHello("Viewer"))
 ---
 <!--External link to outside webpage -->
 ## Connect with me
-Connect with me on [Github](https://github.com/DishitaJoshi23) or [LinkedIn] (https://www.linkedin.com/in/dishita-joshi/)
+Connect with me on [Github](https://github.com/DishitaJoshi23) or [LinkedIn](https://www.linkedin.com/in/dishita-joshi/)
 
 ---
 <!--Section link: back to the top -->
