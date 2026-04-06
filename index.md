@@ -7,10 +7,10 @@
 **Welcome to my Github User Page!** I am a *software developer*, who is also interested in *product management*. I'm intrigued by the role of *data and analytics* in software engineering. Scroll further down to explore what I am currently working on!
 
 ## Table of Contents
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Learning Goals Task List](#-learning-goals)
-- [Connect with me](#-connect-with-me)
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Learning Goals Task List](#learning-goals-task-list)
+- [Connect with me](#connect-with-me)
 
 ---
 
