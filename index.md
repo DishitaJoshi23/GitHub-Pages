@@ -16,7 +16,7 @@
 
 ## About me
 <!--Picture-->
-![Dream Desktop set up](https://unsplash.com/photos/black-flat-screen-computer-monitor-on-brown-wooden-desk-gvptKmonylk)
+![Dream Desktop set up](https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg)
 
 <!--Unordered list-->
 Other than coding, here are a few things I enjoy:
